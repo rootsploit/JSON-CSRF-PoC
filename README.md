@@ -13,4 +13,6 @@ Cross-Site Request Forgery on JSON Endpoint using Fetch API as usual HTML Form d
 
 Change the URL and Body from the PoC file to perform the CSRF on JSON Endpoint.
 
+More details on: <a href="https://rootsploit.com/2020/08/01/exploiting-csrf-on-json-endpoint-w-o-flash/">https://rootsploit.com</a>
+
 ![alt text](https://rootsploit.com/wp-content/uploads/2020/08/JSON_CSRF-PoC.png)

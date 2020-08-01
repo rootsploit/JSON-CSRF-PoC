@@ -1,6 +1,10 @@
 # JSON CSRF PoC
 
-Cross-Site Request Forgery on JSON Endpoint using Fetch API.
+### What is CSRF?
+CSRF is Cross-Site Request Forgery vulnerability which can be used to force an user to conduct unintended actions on a Web Application. Using this flaw an attacker can perform various attacks based on the affected module such as changing Email ID, Password for the User's Account.
+
+### CSRF on JSON Endpoint:
+Cross-Site Request Forgery on JSON Endpoint using Fetch API as usual HTML Form does not work in API Request due to padding issue.
 
 ### Below are the required conditions in order to perform this attack:
   1. Authentication Method should be cookie based only
